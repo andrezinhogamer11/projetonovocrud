@@ -1,6 +1,4 @@
-
 <?php
-
 namespace App\Models;
 
 class Tarefa
@@ -68,6 +66,5 @@ class Tarefa
         return $stmt->fetchAll();
     }
 }
-
 
 ?>
