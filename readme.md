@@ -1,9 +1,11 @@
-# minha informações para atividade
-
-NOME: Mario Gonçalves de Freitas Junior
-DATA: 10/06/2025
+# Atividade
 
 ![alt text](<Captura de tela 2025-06-10 165712.png>) ![alt text](<Captura de tela 2025-06-10 165515.png>) ![alt text](<Captura de tela 2025-06-10 164447.png>) ![alt text](<Captura de tela 2025-06-10 164119.png>)
+
+
+
+NOME: André Mardula Neto
+DATA: 10/06/2025
 
 # **WSL**
 Permite rodar distribuições linux dentro do windows.
