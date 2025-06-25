@@ -2,7 +2,8 @@
     "name": "andre.neto1/projetonovocrud",
     "require": {
         "slim/slim": "^4.14",
-        "slim/psr7": "^1.7"
+        "slim/psr7": "^1.7",
+        "slim/php-view": "^3.4"
     },
     "autoload": {
         "psr-4": {
